@@ -3,7 +3,7 @@
 a = [1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
 b = []
 
-entry = input("Please enter a number in the rane 1 to 90: ")
+entry = input("Please enter a number in the range 1 to 90: ")
 num = int(entry)
 
 for i in a:
